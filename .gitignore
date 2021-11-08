@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.py[co]
+
+# Distribution / packaging
+.Python
+.ipynb_checkpoints/
+env/
+.idea/
+venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+/data/model/
+*.csv
+*.json
+*.txt
+tests/phising_temp_data/*
+/.coverage
+audio/
+image/
+*.zip
+out/
